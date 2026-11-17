@@ -1,1 +1,1 @@
-"""gateflow baseline (single-responsibility pipeline)."""
+"""gateflow package (single-responsibility pipeline)."""
